@@ -8,7 +8,10 @@ Space Runner is simple desktop game that is similar to flappy bird which is crea
 ### To view a demo of the game click the video below:
 [![SpaceRunner](https://j.gifs.com/GvpWQr.gif)](https://www.youtube.com/watch?v=HQtZwTyK9tY&ab_channel=TejasKerai)
 
-
+## Tech Stack
+These tools were used to create the application:
+- **Python** - Programming Langauge
+- **Pygame** - Python module designed to aid game development
 
 ## Installation
 Clone the repository
